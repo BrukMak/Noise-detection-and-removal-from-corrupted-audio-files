@@ -83,6 +83,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
-If you have any questions, or suggestions, or need assistance, please feel free to contact the project maintainer at [your.email@example.com](mailto:brukmakeni@gmail.com).
+If you have any questions, or suggestions, or need assistance, please feel free to contact the project maintainer at mailto:brukmakeni@gmail.com.
 
 Happy noise reduction!
